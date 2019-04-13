@@ -1,4 +1,4 @@
-package br.com.blogger.controller;
+package com.blogger.controller;
 
 import javax.faces.view.ViewScoped;
 import java.io.Serializable;
